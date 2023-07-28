@@ -16,3 +16,6 @@ The models set-up are also presented : Mask RCNN and Unet.
 The optimization procedures are also included.
 Moreover, the Morphologcal Similarity Index Measurement functions (Wang et al.2005, Green et al.2017) are also included which allows a user to make comparison, if necessary.
 The models saving is also included.
+
+Update (Jul 29, 2023):
+due to the inconsistencies between the recent distributions of tensorflow and maskrcnn, we recommend the following solution: see  https://github.com/KenessaryMurat/Mask-R-CNN-for-Filaments-Identification.git
