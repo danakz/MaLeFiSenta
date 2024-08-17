@@ -19,3 +19,6 @@ The models saving is also included.
 
 Update (Jul 29, 2023):
 due to the inconsistencies between the recent distributions of tensorflow and maskrcnn, we recommend the following solution: see  https://github.com/KenessaryMurat/Mask-R-CNN-for-Filaments-Identification.git
+
+Update (Aug 17, 2024):
+the latest version, with the compiled jupyter notebook and  model weights is located here: https://github.com/Temirkul/ism-filaments-analysis
